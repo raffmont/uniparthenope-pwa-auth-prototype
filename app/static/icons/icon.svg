@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="UniParthenope Auth icon">
+  <rect width="512" height="512" rx="96" fill="#003366"/>
+  <circle cx="256" cy="178" r="72" fill="#f2b705"/>
+  <path d="M128 408c20-75 72-116 128-116s108 41 128 116" fill="#ffffff"/>
+  <path d="M168 120h176v36H168z" fill="#ffffff" opacity="0.9"/>
+</svg>
